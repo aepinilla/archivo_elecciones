@@ -1,0 +1,46 @@
+// Here you can add other styles
+// Here you can add other styles
+.sidebar-brand {
+  background: #fcde67;
+  color: #1d2125;
+}
+
+.sidebar-brand svg {
+  height: 50px;
+  width: 260px;
+}
+
+.form-check-input[type="checkbox"]:indeterminate,
+.form-check-input:checked {
+  background-color: #a9a9a9;
+  border-color: #a9a9a9;
+}
+
+.form-check-input:focus {
+  border-color: #696969;
+  box-shadow: 0 0 0 0.25rem rgba(105, 105, 105, 0.25);
+}
+
+.page-item.active .page-link {
+  color: #1d2125;
+  background-color: #fcde67;
+  border-color: #fcde67;
+}
+
+a,
+.page-link {
+  color: #1d2125;
+}
+
+.btn-outline-primary {
+  --cui-btn-border-color: #696969;
+  --cui-btn-color: #696969;
+  --cui-btn-hover-bg: #fcde67;
+  --cui-btn-hover-border-color: #696969;
+  --cui-btn-hover-color: #696969;
+  --cui-btn-active-bg: #fcde67;
+  --cui-btn-active-border-color: #696969;
+  --cui-btn-active-color: #696969;
+  --cui-btn-disabled-color: #696969;
+  --cui-btn-shadow: rgba(105, 105, 105, 0.25);
+}
