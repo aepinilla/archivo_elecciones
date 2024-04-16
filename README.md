@@ -1,18 +1,11 @@
-# Archivo electoral - Colombia
+# Electoral archive
 
-Este es un archivo dígital con los resultados de las elecciones en Colombia. Por ahora están los formularios E-14 de las elecciones legislativas del 2018. Con el tiempo se irán añadiendo más datos.
+This is is an electoral archive with the results of the elections in Colombia. The data is stored in Estuary (https://estuary.tech/), a decentralized database built by Protocol Labs (https://protocol.ai).
 
-# Requerimientos
+It currently has the E-14 forms of the 2018 legislative elections. We are working to continue adding more data.
 
-NodeJS: https://nodejs.org/en/
+# Instructions
 
-# Instrucciones
-
-1. Clonar este repositorio
-2. Ir a la carpeta raíz
-3. Correr `npm install`
-4. Correr `npm start`
-
-# Publicar
-
-Para publicar en un sitio web, correr `npm run build`. Este comando creará el directorio /dist. Los archivos que están dentro de ese directorio se pueden publicar en un sitio web.
+1. Clone this repository
+2. Run `npm install`
+3. Run `npm start`
